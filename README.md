@@ -1,12 +1,31 @@
-# Projeto de um Blog de filmes de TI:
+<h1 align="center"> Projeto de um Blog de filmes de TI</h1>
 
-## Integrantes:
+
+<div align="center">
+
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=FINALIZADO&color=GREEN&style=for-the-badge)
+![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![GitHub Org's stars](https://img.shields.io/github/stars/and3510?style=social)
+
+</div>
+
+
+* [Integrantes](#Integrantes)
+* [Requisitos](#Requisitos)
+* [Tarefas](#Tarefas)
+* [Regras de Instruções](#Regras-de-Instruções)
+* [Imagens do Site](#Imagens-do-Site)
+
+
+## Integrantes
    - and3510
    - gustavodovale
    - whosbea
    - cristovam10000
 
-## Requisitos:
+## Requisitos
    - Menu Principal;
    - Uma página para cada filme;
    - Mesmo estilo de cores em todos as páginas;
@@ -16,14 +35,14 @@
    - Notas do filmes por estrelas
    - Avaliação de comentario com like e deslike
 
-## Tarefas:
+## Tarefas
    - Anderson → Fazer o homepage, 2 duas páginas de filme, formulario e sobre o site;
    - Gustavo →  2 duas páginas de filme;
    - Beatriz → 2 duas páginas de filme;
    - Cristovam → 2 duas páginas de filme.
 
 
-## Regras de Instruções:
+## Regras de Instruções
    - 8 paginas (links âncoras não contam);
    - Navegação entre páginas;
    - 3 imagens;
@@ -35,7 +54,7 @@
    - Uso de 3 eventos de interação com o usuario com javascript DOM.
 
 
-## Imagens do Site:
+## Imagens do Site
 
    ### Homepage:
    ![alt text](images-site/image-2.png)
